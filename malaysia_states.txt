@@ -1,0 +1,13 @@
+Sarawak,124450
+Sabah,73631
+Pahang,36137
+Perak,21035
+Johor,19210
+Kelantan,15099
+Terengganu,13035
+Kedah,9500
+Selangor,8104
+Negeri Sembilan,6686
+Melaka,1664
+Penang,1048
+Perlis,821
